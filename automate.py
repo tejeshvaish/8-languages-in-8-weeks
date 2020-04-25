@@ -9,7 +9,7 @@ values= {
 'Name': 'Tejesh Vaish',
 'Roll Number':'190908',
 'Did you use a python script':'Yes',
-'Link to github repo/pastebin where I can see your script':'https://docs.google.com/forms/d/e/1FAIpQLSfxsg59ggPdonbOLakPTwn_qQk-P0euw531kGt2pdDxSlnB9Q/viewform'
+'Link to github repo/pastebin where I can see your script':'https://github.com/tejeshvaish/8-languages-in-8-weeks/tree/masterP0euw531kGt2pdDxSlnB9Q/viewform'
 }
 print(values)
 data = urllib.parse.urlencode(values)
